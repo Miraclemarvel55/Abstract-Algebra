@@ -1,4 +1,8 @@
 """
+author:sida
+time:2020.06.21
+"""
+"""
 关于数论的一些函数，像求整数N的单位根或者单位原根。
 
 functions about number theory,like unit root or unit original root for number N.
